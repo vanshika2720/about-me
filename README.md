@@ -1,53 +1,77 @@
-💫 Hi 👋, I'm Vanshika 😊
+# 💫 Hi there! 👋 I'm Vanshika
 A passionate Coder and Software Engineer from India.
 
-Email Me 👉 ✉️ pahalvanshikaa.email@example.com** For Collaboration/Project or Anything Else. 😊😊
+✨ **Reach me at:** pahalvanshikaa.email@example.com
 
-🔭 I’m currently working on: My personal portfolio website
-🌱 I’m currently learning: Web Development , Data Structures and Algorithms,Java
-👯 I’m looking to collaborate on: Open-source projects related to AI and Web
-💬 Ask me about: My coding journey, tech stacks, or my projects
-📫 **How to reach me:** pahalvanshikaa.email@example.com
-😄 Pronouns: She/Her
-⚡ Fun fact: I enjoy solving complex problems and love learning new technologies.
-🔗 I am a student and have a deep interest in coding 😊😊
+---
 
-<br>
+### About Me
+- 🔭 I'm currently working on: Strengthening my Data Structures and Algorithms (DSA) skills.
+ <br>
+- 🌱 I’m currently learning: Python and DSA.
+- <br>
+- 👯 I’m looking to collaborate on: Open-source projects.
+ <br>
+- 💬 Ask me about: HTML, CSS, and JavaScript.
+  <br>
+- ⚡ Fun fact: I enjoy solving complex problems and love turning coffee into code!
 
-### 🏆 GitHub Trophies
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Vanshika&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-<br>
-
-### 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vanshika-your-profile) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/vanshika-your-profile) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/vanshika-your-profile) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vanshika.email@example.com)
-
-<br>
+---
 
 ### 💻 Tech Stack
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+This section features a cleaner, more organized display of your skills using badges.
 
-<br>
+#### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### Data Structures and Algorithms (DSA)
+![DSA](https://img.shields.io/badge/Data_Structures_&_Algorithms-Practice-blue?style=for-the-badge&logo=leetcode&logoColor=white)
+
+#### Tools and Platforms
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](
+[
+](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+Use code with caution.
+
+markdown
+)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vanshika&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Vanshika&theme=dark&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshika&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+This section has been improved with a better layout and more details.
 
-<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vanshika2720&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Vanshika2720's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vanshika2720&theme=dark&hide_border=false" alt="Vanshika2720's streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshika2720&theme=dark&hide_border=false&layout=compact" alt="Vanshika2720's Top Languages" />
+</p>
 
-### Snake Animation
-https://github.com/abozanona/pacman-contribution-graph
+---
 
-### ✍️ Random Dev Quote
-![quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Vanshika2720&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<br>
+---
 
-### 🔝 Top Contributed Repo
-[![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Vanshika&limit=5&theme=dark&combine_all_yearly_contributions=true)](https://github.com/Vanshika)
+### 📈 GitHub Metrics
+This is a replacement for the snake animation and offers a powerful, customizable overview of your profile activity. You will need to set up the GitHub Action for this to work correctly.
+![GitHub Metrics](https://metrics.lecoq.io/Vanshika2720?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=true&base.followers=false&base.metadata=true&repositories=true&repositories.forks=true&repositories.featured=true&isocalendar=true&isocalendar.duration=full-year&isocalendar.legend=false&isocalendar.title=Year%20in%20contributions&isocalendar.background=100000&isocalendar.border=100000)
 
-<br>
+---
+
+### 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanshikaa-pahal-a3055a369/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pahlavanshikaa.email@example.com)
+
+---
 
 ### Visitors Count
-![visitors](https://visitcount.itsvg.in/api?id=Vanshika&icon=1&color=0)
+![visitors](https://visitcount.itsvg.in/api?id=Vanshika2720&icon=1&color=0)
+
+
