@@ -6,8 +6,7 @@ A passionate Coder and Software Engineer from India.
 ---
 
 ### About Me
-- 🔭 I'm currently working on: Strengthening my Data Structures and Algorithms (DSA) skills.
- <br>
+-🔭 I'm currently working on: Strengthening my Data Structures and Algorithms (DSA) skills.
 - 🌱 I’m currently learning: Python and DSA.
 - <br>
 - 👯 I’m looking to collaborate on: Open-source projects.
@@ -32,13 +31,8 @@ This section features a cleaner, more organized display of your skills using bad
 
 #### Tools and Platforms
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](
-[
-](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
-Use code with caution.
+Github
 
-markdown
-)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
@@ -48,7 +42,7 @@ This section has been improved with a better layout and more details.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vanshika2720&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Vanshika2720's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vanshika2720&theme=dark&hide_border=false" alt="Vanshika2720's streak" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshika2720&theme=dark&hide_border=false&layout=compact" alt="Vanshika2720's Top Languages" />
 </p>
 
@@ -59,9 +53,6 @@ This section has been improved with a better layout and more details.
 
 ---
 
-### 📈 GitHub Metrics
-This is a replacement for the snake animation and offers a powerful, customizable overview of your profile activity. You will need to set up the GitHub Action for this to work correctly.
-![GitHub Metrics](https://metrics.lecoq.io/Vanshika2720?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=true&base.followers=false&base.metadata=true&repositories=true&repositories.forks=true&repositories.featured=true&isocalendar=true&isocalendar.duration=full-year&isocalendar.legend=false&isocalendar.title=Year%20in%20contributions&isocalendar.background=100000&isocalendar.border=100000)
 
 ---
 
@@ -71,7 +62,6 @@ This is a replacement for the snake animation and offers a powerful, customizabl
 
 ---
 
-### Visitors Count
-![visitors](https://visitcount.itsvg.in/api?id=Vanshika2720&icon=1&color=0)
+
 
 
