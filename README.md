@@ -1,5 +1,5 @@
 # 💫 Hi there! 👋 I'm Vanshika
-A passionate Coder and Software Engineer from India.
+A passionate Coder and Aspiring developer from  from India.
 
 ✨ **Reach me at:** pahalvanshikaa.email@example.com
 
