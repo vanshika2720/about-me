@@ -1,0 +1,27 @@
+name: Metrics
+on:
+  # Schedule daily updates
+  schedule: [{cron: "0 0 * * *"}]
+  # Run workflow manually
+  workflow_dispatch:
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: Vanshika2720
+          template: classic
+          base: header, activity, community, repositories, metadata
+          base_indepth: false
+          base_hireable: true
+          repositories: true
+          repositories_forks: true
+          repositories_featured: true
+          isocalendar: true
+          isocalendar_duration: full-year
+          isocalendar_legend: false
+          isocalendar_title: Year in contributions
+          isocalendar_background: 100000
+          isocalendar_border: 100000
