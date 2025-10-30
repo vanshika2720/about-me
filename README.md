@@ -1,17 +1,16 @@
 💫 Hi 👋, I'm Vanshika 😊
 A passionate Coder and Software Engineer from India.
 
-Email Me 👉 ✉️ vanshika.email@example.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ pahalvanshikaa.email@example.com** For Collaboration/Project or Anything Else. 😊😊
 
 🔭 I’m currently working on: My personal portfolio website
-🌱 I’m currently learning: Web Development and Data Structures
+🌱 I’m currently learning: Web Development , Data Structures and Algorithms,Java
 👯 I’m looking to collaborate on: Open-source projects related to AI and Web
-🤔 I’m looking for help with: UI/UX design for a new project
 💬 Ask me about: My coding journey, tech stacks, or my projects
-📫 **How to reach me:** vanshika.email@example.com
+📫 **How to reach me:** pahalvanshikaa.email@example.com
 😄 Pronouns: She/Her
 ⚡ Fun fact: I enjoy solving complex problems and love learning new technologies.
-🔗 I am a Software Engineer and Coder 😊😊
+🔗 I am a student and have a deep interest in coding 😊😊
 
 <br>
 
